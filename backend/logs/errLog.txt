@@ -1,0 +1,5 @@
+20231213	00:02:59	27252a94-8c4e-4064-b415-77a240acf84d	Error: Not allowed by CORS
+20231213	00:03:01	9e290c5e-68de-4338-9222-b02b8cd0c40c	Error: Not allowed by CORS
+20231213	01:28:39	b2964fb9-206e-4f4b-9017-07697a412eb4	Error: Not allowed by CORS
+20231213	01:28:45	5cb5e254-62f4-4799-981b-c48847619a87	Error: Not allowed by CORS
+20231213	01:29:11	b93be294-f7f1-4ac7-88dd-e4cfc627e457	Error: Not allowed by CORS
